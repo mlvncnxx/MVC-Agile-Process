@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'COMP367-local'
+  name: 'COMP367-Lab4'
 
 variables:
   buildConfiguration: 'Release'
